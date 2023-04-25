@@ -29,9 +29,6 @@ This is the next page that can be accessed by clicking on ‘Lets Go!’ button 
 <br>
 ![MasterHead](https://github.com/RitikRatnawat/Restaurant-Rating-Prediction/blob/d1c54a8d739a84ddde3be92c3d5a8d97894475c1/static/images/readme_imgs/des2.gif)
 <br>
-
-![MasterHead](https://github.com/RitikRatnawat/Restaurant-Rating-Prediction/blob/d1c54a8d739a84ddde3be92c3d5a8d97894475c1/static/images/readme_imgs/des3.gif)
-<br>
           
  ## 🗒 User Input: <br>
  On the predictor page, the user has to provide all the information asked for the prediction. The user can select from the drop down lists , can select multiple enteries from the list and enter input (as asked) in each of the fields. Once, all the asked information is provided, the user clicks on submit button to get the output.<br>
