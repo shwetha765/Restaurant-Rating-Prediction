@@ -30,9 +30,6 @@ This is the next page that can be accessed by clicking on ‘Lets Go!’ button 
 ![MasterHead](https://github.com/RitikRatnawat/Restaurant-Rating-Prediction/blob/d1c54a8d739a84ddde3be92c3d5a8d97894475c1/static/images/readme_imgs/des2.gif)
 <br>
 
-### 3. About Us Page 💻<br>
-The About us page holds a short summary about the people who have contributed in building this project. There are social links attached as well in case someone wants to contact the people behind this project.<br>
-<br>
 ![MasterHead](https://github.com/RitikRatnawat/Restaurant-Rating-Prediction/blob/d1c54a8d739a84ddde3be92c3d5a8d97894475c1/static/images/readme_imgs/des3.gif)
 <br>
           
